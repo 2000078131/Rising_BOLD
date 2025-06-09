@@ -35,4 +35,4 @@ To run the console application:
 1. Ensure you have Python 3.6+ installed on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-repository-link.git
+   [git clone https://github.com/your-repository-link.git](https://github.com/2000078131/Rising_BOLD.git)
