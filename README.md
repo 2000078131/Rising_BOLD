@@ -1,7 +1,38 @@
-#Mavericks Onboarding Training Console
+# Mavericks Onboarding Training Console
 
-This project implements a console-based onboarding training management system for Mavericks, designed to streamline the fresher onboarding experience. It features personalized onboarding plans, multi-agent assessment tracking, profile management, and comprehensive reporting.
+Welcome to the **Mavericks Onboarding Training Console**, a streamlined and modular console application designed to simplify and enhance the onboarding experience for freshers joining Mavericks.
 
-Built with a focus on clarity and developer experience, the solution models key onboarding workflows including quizzes, coding challenges, assignments, and certifications. It enables administrators and new hires to track training progress and assessment scores through an intuitive text-based interface.
+---
 
-The design principles prioritize simplicity, readability, and modularity, ensuring maintainability and scalability. This lightweight console application serves as a proof of concept for a richer AI-assisted, data-driven onboarding platform.
+## Overview
+
+This project provides a lightweight, text-based platform that models a comprehensive onboarding workflow, including:
+
+- Personalized onboarding plans tailored by role
+- Multi-agent assessment tracking (quizzes, coding challenges, assignments, certifications)
+- Fresher profile management with progress dashboards
+- Detailed training progress reports for administrators
+- Simulated AI-assisted workflow agents for evaluation and reporting
+
+The application prioritizes simplicity, modularity, and clarity, serving as a proof of concept for a data-driven, AI-enhanced onboarding ecosystem.
+
+---
+
+## Features
+
+- **User Profiles:** Manage fresher information, skills, and departmental data.
+- **Onboarding Plans:** Structured 5-day onboarding schedules customized per fresher.
+- **Assessment Tracking:** Record and evaluate scores for quizzes, coding challenges, assignments, and certifications.
+- **Real-Time Dashboard:** View individual fresher progress and performance metrics.
+- **Comprehensive Reporting:** Generate aggregated reports for training completion and assessment outcomes.
+
+---
+
+## Getting Started
+
+To run the console application:
+
+1. Ensure you have Python 3.6+ installed on your system.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/your-repository-link.git
