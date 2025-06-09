@@ -33,6 +33,5 @@ The application prioritizes simplicity, modularity, and clarity, serving as a pr
 To run the console application:
 
 1. Ensure you have Python 3.6+ installed on your system.
-2. Clone this repository:
-   ```bash
-   [git clone https://github.com/your-repository-link.git](https://github.com/2000078131/Rising_BOLD.git)
+2. Clone this repository: git clone https://github.com/2000078131/Rising_BOLD.git
+   
